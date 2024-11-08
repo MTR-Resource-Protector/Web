@@ -16,6 +16,11 @@ Our front-end application is built with modern web technologies, ensuring respon
 
 ## Getting Started
 
+**Remember:**
+**This Project is consisted with three branches, the Release Branch will handle all the codes that had been verified and was published to the public and was updated once a month**
+**And the Release-Preview Branch consists of the features that is going to be included in the next Publish, so feel free to copy them and test the bugs and open Issues for us**
+**If you are crazy developers, you can try the Dev Branch which consists our newest codes but  still in development, but please do not open an Issue to report the bugs of them, open a Pull request instead to help us fix them**
+
 To get started with the project, follow these steps:
 
 1. **Clone the Repository**:
