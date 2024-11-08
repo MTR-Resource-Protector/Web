@@ -31,7 +31,7 @@ To get started with the project, follow these steps:
 2. **Install Dependencies**:
    Navigate to the project directory and install the required packages:
    ```bash
-   cd code-publish
+   cd the-path-to-your-path(it is just an example)
    pnpm install
    ```
 
